@@ -2,8 +2,10 @@
 School of AI - ERA V1 - Backpropagation
 
 ## Weights Calculations:
-![model](model.png)
-
+<p align="center">
+  <img src="model.png" width="350" title="model">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 
