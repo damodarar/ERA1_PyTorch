@@ -7,6 +7,7 @@ School of AI - ERA V1 - Backpropagation
   <img src="model.png" width="350" alt="model1">
 </p>
 
+![model](https://github.com/damodarar/ERA1_PyTorch/blob/S6/S6/model.png)
 
 
 
